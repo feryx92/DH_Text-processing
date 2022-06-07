@@ -1,2 +1,2 @@
 # DH_Text-processing
-Text processing with Python in Digital Humanities
+This repository contains a number of methods for text processing with Python in Digital Humanities
