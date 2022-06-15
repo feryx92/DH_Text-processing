@@ -1,6 +1,6 @@
 This folder contains text manipulation of Edmund Husserl's correspondance, i.e. *HuaDok III, 1-9 - Briefwechsel (1993)*
 
-# Preprocessing and Create Tabular Structure
+# 01 Preprocessing and Create Tabular Structure
 Such a notebook performs the following processes:
 
 1. Partially cleans plain text of Husserl's correspondance contained in HuaDok III, 1-9 - Briefwechsel (1993)
